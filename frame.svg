@@ -56,7 +56,7 @@
         <p>
             Preparing to start at the Digital Futures academy on the Software Engineering course.
         </p>
-        <image id="revealbutton" onclick="reveal()" src="./smoke.gif">
+        <object type="image/svg+xml" id="revealbutton" onclick="reveal()" src="./smoke.gif">
     </div>
   </foreignObject>
 </svg>
