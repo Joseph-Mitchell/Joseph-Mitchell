@@ -1,4 +1,4 @@
-<a href="https://joseph-mitchell.github.io/" align="center"><img src="Banner.png"></a>
+<a href="https://joseph-mitchell.github.io/" align="center" target="_blank"><img src="Banner.png"></a>
 
 <p align="center">
   My name is Joseph Mitchell, and I am a graduate of Edinburgh Napier University with a First Class Honours in BSc Games Development. Throughout my education I have had experience not only with the more creative side of Game Dev, but also in many technical aspects of         Software Engineering as a whole. <br>
